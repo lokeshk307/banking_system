@@ -34,9 +34,10 @@ banking_system/<br />
 ## How to Execute
 
 1. Ensure you have Python installed on your system.
-2. Navigate to the root directory of the project which is .\banking_system in this case.
-3. Run the tests by executing the command `python -m unittest discover .\tests`.
-4. View the test results.
+2. Clone this repository to your local machine.
+3. Navigate to the root directory of the project which is .\banking_system in this case.
+4. Run the tests by executing the command `python -m unittest discover .\tests`.
+5. View the test results.
 
 ## Python Version
 
